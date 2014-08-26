@@ -1,0 +1,104 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "XML template inheritance", "XML template inheritance.vcproj", "{B0C03838-0FB1-4B18-A552-924C53080A21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		MBCS MFC Debug|Win32 = MBCS MFC Debug|Win32
+		MBCS MFC Release|Win32 = MBCS MFC Release|Win32
+		MBCS MFC STDCONV Debug|Win32 = MBCS MFC STDCONV Debug|Win32
+		MBCS MFC STDCONV Release|Win32 = MBCS MFC STDCONV Release|Win32
+		MBCS STL Debug|Win32 = MBCS STL Debug|Win32
+		MBCS STL Release|Win32 = MBCS STL Release|Win32
+		MBCS STL STDCONV Debug|Win32 = MBCS STL STDCONV Debug|Win32
+		MBCS STL STDCONV Release|Win32 = MBCS STL STDCONV Release|Win32
+		MFC Debug|Win32 = MFC Debug|Win32
+		MFC Release|Win32 = MFC Release|Win32
+		MFC STDCONV Debug|Win32 = MFC STDCONV Debug|Win32
+		MFC STDCONV Release|Win32 = MFC STDCONV Release|Win32
+		MSXML Debug|Win32 = MSXML Debug|Win32
+		MSXML Release|Win32 = MSXML Release|Win32
+		Release|Win32 = Release|Win32
+		STL Debug|Win32 = STL Debug|Win32
+		STL Release|Win32 = STL Release|Win32
+		STL STDCONV Debug|Win32 = STL STDCONV Debug|Win32
+		STL STDCONV Release|Win32 = STL STDCONV Release|Win32
+		Unicode MFC Debug|Win32 = Unicode MFC Debug|Win32
+		Unicode MFC Release|Win32 = Unicode MFC Release|Win32
+		Unicode MFC STDCONV Debug|Win32 = Unicode MFC STDCONV Debug|Win32
+		Unicode MFC STDCONV Release|Win32 = Unicode MFC STDCONV Release|Win32
+		Unicode MSXML Debug|Win32 = Unicode MSXML Debug|Win32
+		Unicode MSXML Release|Win32 = Unicode MSXML Release|Win32
+		Unicode STL Debug|Win32 = Unicode STL Debug|Win32
+		Unicode STL Release|Win32 = Unicode STL Release|Win32
+		Unicode STL STDCONV Debug|Win32 = Unicode STL STDCONV Debug|Win32
+		Unicode STL STDCONV Release|Win32 = Unicode STL STDCONV Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.Debug|Win32.Build.0 = Debug|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.MBCS MFC Debug|Win32.ActiveCfg = Debug|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.MBCS MFC Debug|Win32.Build.0 = Debug|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.MBCS MFC Release|Win32.ActiveCfg = Release|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.MBCS MFC Release|Win32.Build.0 = Release|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.MBCS MFC STDCONV Debug|Win32.ActiveCfg = Debug|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.MBCS MFC STDCONV Debug|Win32.Build.0 = Debug|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.MBCS MFC STDCONV Release|Win32.ActiveCfg = Release|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.MBCS MFC STDCONV Release|Win32.Build.0 = Release|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.MBCS STL Debug|Win32.ActiveCfg = Debug|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.MBCS STL Debug|Win32.Build.0 = Debug|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.MBCS STL Release|Win32.ActiveCfg = Release|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.MBCS STL Release|Win32.Build.0 = Release|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.MBCS STL STDCONV Debug|Win32.ActiveCfg = Debug|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.MBCS STL STDCONV Debug|Win32.Build.0 = Debug|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.MBCS STL STDCONV Release|Win32.ActiveCfg = Release|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.MBCS STL STDCONV Release|Win32.Build.0 = Release|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.MFC Debug|Win32.ActiveCfg = Debug|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.MFC Debug|Win32.Build.0 = Debug|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.MFC Release|Win32.ActiveCfg = Release|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.MFC Release|Win32.Build.0 = Release|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.MFC STDCONV Debug|Win32.ActiveCfg = Debug|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.MFC STDCONV Debug|Win32.Build.0 = Debug|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.MFC STDCONV Release|Win32.ActiveCfg = Release|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.MFC STDCONV Release|Win32.Build.0 = Release|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.MSXML Debug|Win32.ActiveCfg = Debug|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.MSXML Debug|Win32.Build.0 = Debug|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.MSXML Release|Win32.ActiveCfg = Release|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.MSXML Release|Win32.Build.0 = Release|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.Release|Win32.ActiveCfg = Release|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.Release|Win32.Build.0 = Release|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.STL Debug|Win32.ActiveCfg = Debug|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.STL Debug|Win32.Build.0 = Debug|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.STL Release|Win32.ActiveCfg = Release|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.STL Release|Win32.Build.0 = Release|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.STL STDCONV Debug|Win32.ActiveCfg = Debug|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.STL STDCONV Debug|Win32.Build.0 = Debug|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.STL STDCONV Release|Win32.ActiveCfg = Release|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.STL STDCONV Release|Win32.Build.0 = Release|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.Unicode MFC Debug|Win32.ActiveCfg = Debug|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.Unicode MFC Debug|Win32.Build.0 = Debug|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.Unicode MFC Release|Win32.ActiveCfg = Release|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.Unicode MFC Release|Win32.Build.0 = Release|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.Unicode MFC STDCONV Debug|Win32.ActiveCfg = Debug|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.Unicode MFC STDCONV Debug|Win32.Build.0 = Debug|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.Unicode MFC STDCONV Release|Win32.ActiveCfg = Release|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.Unicode MFC STDCONV Release|Win32.Build.0 = Release|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.Unicode MSXML Debug|Win32.ActiveCfg = Debug|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.Unicode MSXML Debug|Win32.Build.0 = Debug|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.Unicode MSXML Release|Win32.ActiveCfg = Release|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.Unicode MSXML Release|Win32.Build.0 = Release|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.Unicode STL Debug|Win32.ActiveCfg = Debug|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.Unicode STL Debug|Win32.Build.0 = Debug|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.Unicode STL Release|Win32.ActiveCfg = Release|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.Unicode STL Release|Win32.Build.0 = Release|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.Unicode STL STDCONV Debug|Win32.ActiveCfg = Debug|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.Unicode STL STDCONV Debug|Win32.Build.0 = Debug|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.Unicode STL STDCONV Release|Win32.ActiveCfg = Release|Win32
+		{B0C03838-0FB1-4B18-A552-924C53080A21}.Unicode STL STDCONV Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

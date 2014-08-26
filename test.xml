@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<map description="oras">
+  <nodes q="3">
+    <node id="0" longitude="4963454" latitude="621476"/>
+    <node id="1" longitude="4959493" latitude="614350"/>
+  </nodes>
+</map>
